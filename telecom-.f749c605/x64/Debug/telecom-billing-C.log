@@ -1,0 +1,4 @@
+﻿  telecom-billing-C.cpp
+C:\C_Projects\telecom-billing-system\telecom-billing-C\telecom-billing-C.cpp(97,87): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\C_Projects\telecom-billing-system\telecom-billing-C\telecom-billing-C.cpp(127,65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  telecom-billing-C.vcxproj -> C:\C_Projects\telecom-billing-system\telecom-billing-C\x64\Debug\telecom-billing-C.exe
